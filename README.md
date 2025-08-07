@@ -1,13 +1,12 @@
-Prerequisites -
+Prerequisites:
 - Git
 - Node.js
 - npm 
 
 Install the project dependencies using npm:
+- npm install
 
-npm install
-
-Set Up Environment Variables
+Set Up Environment Variables:
 
 CONVEX_DEPLOYMENT=
 
@@ -22,5 +21,5 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL='/sign-in'
 NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 
 
-Running the Project
+Running the Project:
 npm run dev
