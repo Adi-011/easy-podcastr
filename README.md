@@ -1,7 +1,7 @@
 Prerequisites -
-Git
-Node.js
-npm 
+- Git
+- Node.js
+- npm 
 
 Install the project dependencies using npm:
 npm install
