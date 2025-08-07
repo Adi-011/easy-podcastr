@@ -22,6 +22,9 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 
 
 
+
+
+
 Running the Project:
 
 npm run dev
